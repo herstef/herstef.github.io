@@ -1,5 +1,5 @@
 # herstef.github.io
-sample #1
+WEB DEVELOPER | EQUALITY ADVOCATE
 <html>
 <body>
 <h1>Hello World</h1>
