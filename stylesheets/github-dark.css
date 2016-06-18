@@ -69,12 +69,12 @@ SOFTWARE.
 }
 
 .pl-ii /* invalid.illegal */ {
-  background-color: #e63525;
+  background-color: #FFFFFF;
   color: #f8f8f8;
 }
 
 .pl-sr .pl-cce /* string.regexp constant.character.escape */ {
-  color: #7bcc72;
+  color: #000000;
   font-weight: bold;
 }
 
